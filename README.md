@@ -7,10 +7,14 @@ The main purpose of the election audit analysis is to help the users Tom and Set
   -  Jefferson county got 38,855 number of votes that was 10.5% of the total vote count.
   -  Denver county got 306,055 number of votes that was 82.8% of the total vote count.
   -  Arapahoe county got 24,801 number of votes that was 6.7% of the total vote count. the least number of votes.
-- Denver county got the highest number of votes (306,055)  with an overall percentage of 82.8% .
+- **Denver** county got the highest number of votes (306,055)  with an overall percentage of 82.8% .
 - Candidate-wise summary is as follows:
   - Charles Casper Stockham received 23.0%  of total votes with a vote count of 85,213.
   - Diana DeGette received 73.8% of total votes with a vote count of 272,892.
   - Raymon Anthony Doane received 3.1%  of total votes with a vote count of 11,606.
-- Diana DeGette won the election with a whopping 272,892 votes which accounted for 73.8% of the total vote count.
+- **Diana DeGette** won the election with a whopping 272,892 votes which accounted for 73.8% of the total vote count.
 ## Election Audit Summary
+This Python script used for election analysis makes reading and analyzing large election data easier and quick. 
+It can be extended for reading similar other election files and performing the required analysis such as :
+- Find any duplicate/or missing Ballot ID votes 
+- Find the percentage of voter turnaround compared to previous years and to the overall population.
