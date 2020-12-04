@@ -15,6 +15,7 @@ The main purpose of the election audit analysis is to help the users Tom and Set
 - **Diana DeGette** won the election with a whopping 272,892 votes which accounted for 73.8% of the total vote count.
 ## Election Audit Summary
 This Python script used for election analysis makes reading and analyzing large election data easier and quick. 
-It can be extended for reading similar other election files and performing the required analysis such as :
-- Find any duplicate/or missing Ballot ID votes 
-- Find the percentage of voter turnaround compared to previous years and to the overall population.
+It can be extended for reading similar other election files and performing the required analysis. 
+Some use cases such as :
+- Find any duplicate/(or missing?) Ballot IDs( voters that voted more than once from different counties or different candidates).
+- Compare the percentage of voter turnaround to previous years elections and to the overall population.
